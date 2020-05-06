@@ -4,6 +4,18 @@ const check = ['Parijs', '8', 'Ijselmeer',
 ];
 var count = 0; 
 
+const toetsVragen = [
+    "Wat is de hoofdstad van Frankrijk?",
+    "Hoeveel benen heeft een spin?",
+    "Wat is het grootste meer van Nederland?",
+    "Noem een duits automerk",
+    "Noem een waddeneiland",
+];
+document.getElementById('Hooftstad').innerHTML = toetsVragen[0];
+document.getElementById('Poten').innerHTML = toetsVragen[1];
+document.getElementById('Grootste').innerHTML = toetsVragen[2];
+document.getElementById('Duits').innerHTML = toetsVragen[3];
+document.getElementById('Eiland').innerHTML = toetsVragen[4];
 
 function Conteroleer() {
     const Frankrijk = document.getElementById('Frankrijk').value;
