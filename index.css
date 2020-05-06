@@ -1,0 +1,58 @@
+body {
+    background-color: lime;
+}
+.Button {
+    background-color: #4CAF50;
+    border-color: darkgreen;
+    color: darkgreen;
+    padding: 10px;
+    width: 92%;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.Frankrijk {
+    width: 90%;
+    padding: 10px 15px;
+    border: 2px solid darkgreen;
+    border-radius: 5px;
+    background-color: lightgreen;
+    color: darkgreen;
+}
+.Spin {
+    width: 90%;
+    padding: 10px 15px;
+    border: 2px solid darkgreen;
+    border-radius: 5px;
+    background-color: lightgreen;
+    color: darkgreen;
+}
+.Meer {
+    width: 90%;
+    padding: 10px 15px;
+    border: 2px solid darkgreen;
+    border-radius: 5px;
+    background-color: lightgreen;
+    color: darkgreen;
+}
+.Automerk {
+    width: 90%;
+    padding: 10px 15px;
+    border: 2px solid darkgreen;
+    border-radius: 5px;
+    background-color: lightgreen;
+    color: darkgreen;
+}
+.Waddeneiland {
+    width: 90%;
+    padding: 10px 15px;
+    border: 2px solid darkgreen;
+    border-radius: 5px;
+    background-color: lightgreen;
+    color: darkgreen;
+}
+h2 {
+    color: darkgreen;
+}
+h1 {
+    color: darkgreen;
+}
